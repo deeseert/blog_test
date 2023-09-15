@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "slug": "introduction-to-react",
+    "title": "Introduction to React",
+    "content": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.",
+    "author": "John Doe",
+    "date": "2023-09-01"
+  },
+  {
+    "id": 2,
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "content": "Next.js provides the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, and more.",
+    "author": "Jane Smith",
+    "date": "2023-09-02"
+  },
+  {
+    "id": 3,
+    "slug": "exploring-nodejs",
+    "title": "Exploring Node.js",
+    "content": "Node.js is a runtime built on Chrome's V8 JavaScript engine. It's designed to build scalable network applications.",
+    "author": "Alice Johnson",
+    "date": "2023-09-03"
+  },
+  {
+    "id": 4,
+    "slug": "diving-into-typescript",
+    "title": "Diving into TypeScript",
+    "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It offers static type checking at compile time.",
+    "author": "Michael Lee",
+    "date": "2023-09-04"
+  },
+  {
+    "id": 5,
+    "slug": "the-power-of-jamstack",
+    "title": "The Power of Jamstack",
+    "content": "Jamstack is a modern architecture for building websites; JAM stands for JavaScript, APIs, and Markup. It provides faster performance and higher security.",
+    "author": "Emily White",
+    "date": "2023-09-05"
+  },
+  {
+    "id": 6,
+    "slug": "the-beauty-of-css-flexbox",
+    "title": "The Beauty of CSS Flexbox",
+    "content": "CSS Flexbox is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces.",
+    "author": "David Miller",
+    "date": "2023-09-06"
+  },
+  {
+    "id": 7,
+    "slug": "getting-to-know-graphql",
+    "title": "Getting to Know GraphQL",
+    "content": "GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data.",
+    "author": "Sophia Turner",
+    "date": "2023-09-07"
+  },
+  {
+    "id": 8,
+    "slug": "a-look-into-vuejs",
+    "title": "A Look into Vue.js",
+    "content": "Vue.js is a progressive JavaScript framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.",
+    "author": "James Wilson",
+    "date": "2023-09-08"
+  },
+  {
+    "id": 9,
+    "slug": "angular-in-action",
+    "title": "Angular in Action",
+    "content": "Angular is a platform for building mobile and desktop web applications. It provides a way to build apps for any deployment target by reusing existing code.",
+    "author": "Isabella Davis",
+    "date": "2023-09-09"
+  },
+  {
+    "id": 10,
+    "slug": "the-world-of-webassembly",
+    "title": "The World of WebAssembly",
+    "content": "WebAssembly (often shortened to wasm) is an open standard that defines a portable binary code format for executable programs. It's a bridge to run high-performance code on web pages.",
+    "author": "Charlie Anderson",
+    "date": "2023-09-10"
+  },
+  {
+    "id": 11,
+    "slug": "svelte-a-new-approach",
+    "title": "Svelte: A New Approach",
+    "content": "Svelte shifts much of the work React or Vue do at runtime to compile time. It writes the updates for you, offering a simpler and faster approach.",
+    "author": "Lily Taylor",
+    "date": "2023-09-11"
+  },
+  {
+    "id": 12,
+    "slug": "deep-dive-into-databases",
+    "title": "Deep Dive into Databases",
+    "content": "Databases are structured collections of data. In this post, we explore various types of databases and their significance in application development.",
+    "author": "Jack Moore",
+    "date": "2023-09-12"
+  },
+  {
+    "id": 13,
+    "slug": "the-rise-of-serverless",
+    "title": "The Rise of Serverless",
+    "content": "Serverless architectures allow developers to write and deploy code without worrying about the underlying infrastructure. It abstracts server management and emphasizes code design.",
+    "author": "Olivia Jackson",
+    "date": "2023-09-13"
+  },
+  {
+    "id": 14,
+    "slug": "deno-vs-nodejs",
+    "title": "Deno vs. Node.js",
+    "content": "Deno aims to be a more modern version of Node.js, focusing on better security and built-in TypeScript support. In this post, we compare the two.",
+    "author": "Lucas Clark",
+    "date": "2023-09-14"
+  },
+  {
+    "id": 15,
+    "slug": "the-role-of-rest-apis",
+    "title": "The Role of REST APIs",
+    "content": "REST APIs allow different software or systems to communicate with each other over the internet using standard HTTP methods. They play a pivotal role in modern web applications.",
+    "author": "Ella Hall",
+    "date": "2023-09-15"
+  },
+  {
+    "id": 16,
+    "slug": "introduction-to-docker",
+    "title": "Introduction to Docker",
+    "content": "Docker is a platform for developing, shipping, and running applications in containers. It provides reproducibility and scalability.",
+    "author": "Benjamin Allen",
+    "date": "2023-09-16"
+  },
+  {
+    "id": 17,
+    "slug": "web-security-best-practices",
+    "title": "Web Security Best Practices",
+    "content": "Security is paramount in web development. This post discusses best practices to ensure your web applications remain secure and resistant to common attacks.",
+    "author": "Mia Wright",
+    "date": "2023-09-17"
+  },
+  {
+    "id": 18,
+    "slug": "machine-learning-for-web-developers",
+    "title": "Machine Learning for Web Developers",
+    "content": "Machine learning is no longer restricted to data scientists. Web developers can integrate ML models into their applications to create smarter web experiences.",
+    "author": "Harry Lewis",
+    "date": "2023-09-18"
+  },
+  {
+    "id": 19,
+    "slug": "the-essence-of-progressive-web-apps",
+    "title": "The Essence of Progressive Web Apps",
+    "content": "Progressive Web Apps (PWAs) combine the best of web and mobile apps. They are web applications that are reliable, fast, and engaging.",
+    "author": "Eva Collins",
+    "date": "2023-09-19"
+  },
+  {
+    "id": 20,
+    "slug": "understanding-css-grid",
+    "title": "Understanding CSS Grid",
+    "content": "CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows.",
+    "author": "Robert Brown",
+    "date": "2023-09-20"
+  }
+]
